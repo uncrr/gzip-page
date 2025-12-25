@@ -5,37 +5,37 @@ const { t } = useI18n()
 
 const features = [
   {
-    key: 'bookshelf',
+    key: 'directory',
     image: '/bookshelf-showcase.png'
   },
   {
-    key: 'personalize',
+    key: 'pluginmanager',
     image: '/personalize-showcase.png'
   },
   {
-    key: 'analytics',
+    key: 'markdown',
     image: '/analytics-showcase.png'
   },
   {
-    key: 'notes',
+    key: 'codeeditor',
     image: '/notes-showcase.png'
   },
   {
-    key: 'aiChat',
+    key: 'editoroptions',
     image: '/ai-chat.png'
   },
   {
-    key: 'contextMenu',
+    key: 'theme',
     image: '/context-menu.png'
   },
-  {
-    key: 'customization',
-    image: '/customization.png'
-  },
-  {
-    key: 'sync',
-    image: '/sync.png'
-  }
+  // {
+  //   key: 'customization',
+  //   image: '/customization.png'
+  // },
+  // {
+  //   key: 'sync',
+  //   image: '/sync.png'
+  // }
 ]
 </script>
 
