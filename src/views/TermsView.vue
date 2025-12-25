@@ -12,11 +12,11 @@ const { locale } = useI18n()
 
         <div v-if="locale === 'zh-CN'" class="policy-content">
           <h1>服务条款</h1>
-          <p><strong>生效日期：2025年3月18日</strong></p>
+          <p><strong>生效日期：2025年12月17日</strong></p>
           <hr>
 
           <h2>1. 协议接受</h2>
-          <p>欢迎使用 <strong>Anx Reader</strong>（以下简称"本软件"）。本软件遵循MIT开源协议，您使用本软件即表示您已阅读、理解并同意遵守以下条款及本软件的隐私政策。</p>
+          <p>欢迎使用 <strong>Gzip Explorer</strong>（以下简称"本软件"）。本软件遵循MIT开源协议，您使用本软件即表示您已阅读、理解并同意遵守以下条款及本软件的隐私政策。</p>
 
           <h2>2. 软件许可</h2>
           <p>根据MIT协议，您有权：</p>
@@ -60,15 +60,15 @@ const { locale } = useI18n()
           <p>本条款受开发者所在地法律管辖，任何争议应提交至开发者所在地有管辖权的法院解决。</p>
 
           <h2>9. 联系我们</h2>
-          <p>如有疑问，请联系：<a href="mailto:anxfeedback@outlook.com">anxfeedback@outlook.com</a></p>
+          <p>如有疑问，请联系：<a href="https://t.me/GzipExplorer">Telegram</a></p>
         </div>
         <div v-else class="policy-content">
           <h1>Terms of Service</h1>
-          <p><strong>Effective Date: March 18, 2025</strong></p>
+          <p><strong>Effective Date: December 17, 2025</strong></p>
           <hr>
 
           <h2>1. Acceptance of Terms</h2>
-          <p>Welcome to <strong>Anx Reader</strong> (the "Software"). By using this Software, you agree to comply with
+          <p>Welcome to <strong>Gzip Explorer</strong> (the "Software"). By using this Software, you agree to comply with
             these
             terms and the Privacy Policy. The Software is licensed under the MIT License.</p>
 
@@ -128,7 +128,7 @@ const { locale } = useI18n()
             jurisdiction over the developer's location.</p>
 
           <h2>9. Contact Us</h2>
-          <p>For questions, contact: <a href="mailto:anxfeedback@outlook.com">anxfeedback@outlook.com</a></p>
+          <p>For questions, contact: <a href="https://t.me/GzipExplorer">Telegram</a></p>
         </div>
       </div>
     </div>
