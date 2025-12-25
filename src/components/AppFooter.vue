@@ -17,6 +17,9 @@ const { t } = useI18n()
         </div>
         
         <div class="footer-links">
+          <a href="https://t.me/GzipExplorer" target="_blank" rel="noopener noreferrer">
+            Telegram
+          </a>
           <a href="https://github.com/uncrr/gzip-explorer" target="_blank" rel="noopener noreferrer">
             {{ t('footer.links.github') }}
           </a>
