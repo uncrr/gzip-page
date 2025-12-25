@@ -2,59 +2,51 @@
   "nav": {
     "home": "首頁",
     "download": "下載",
-    "privacy": "隱私政策",
-    "terms": "服務條款"
+    "privacy": "隱私",
+    "terms": "條款"
   },
   "hero": {
-    "title": "Anx Reader",
-    "subtitle": "極致閱讀體驗",
-    "description": "強大、優雅、功能豐富的電子書閱讀器，重新定義您的數位閱讀之旅。",
-    "download": "立即下載",
+    "title": "Gzip Explorer",
+    "subtitle": "從 .zip 查看 Git 專案",
+    "description": "一款強大且優雅的工具，設計用於讓您透過匯入 .zip 檔案來離線探索 git 儲存庫，配備快速、美觀的唯讀程式碼編輯器並支援 markdown。",
+    "download": "下載",
     "github": "GitHub",
-    "appStore": "在 App Store 下載"
+    "appStore": "在 Google Play 下載"
   },
   "features": {
-    "title": "功能特色",
-    "bookshelf": {
-      "title": "優雅的書架設計",
-      "description": "簡潔精緻的介面，讓您的數位書庫井然有序。透過可自訂的收藏夾組織您的圖書，享受視覺愉悅的閱讀環境。"
+    "title": "功能",
+    "directory": {
+      "title": "快速目錄導航",
+      "description": "透過乾淨的檔案樹檢視輕鬆導航匯入的 git 專案，支援深層資料夾結構並即時存取檔案，以實現無縫的離線瀏覽。"
     },
-    "personalize": {
-      "title": "個人化閱讀",
-      "description": "定製專屬閱讀體驗，從字體到主題，盡在掌控。調整文字大小、行間距、頁邊距，並從明亮、暗黑或棕褐色主題中選擇，減輕眼睛疲勞。"
+    "pluginmanager": {
+      "title": "專屬外掛管理器",
+      "description": "使用內建外掛系統擴充並自訂應用程式。啟用或停用如進階編輯器選項、主題自訂器等強大功能，以符合您的需求。"
     },
-    "analytics": {
-      "title": "數據洞察",
-      "description": "追蹤您的閱讀進度，透過詳細統計了解您的閱讀習慣。監控您的閱讀速度、花費時間和完成率，以改善您的閱讀習慣。"
+    "markdown": {
+      "title": "Markdown 預覽支援",
+      "description": "以美觀的渲染 markdown 預覽檢視 README 和任何 .md 檔案，包含表格、程式碼區塊、圖片和格式，以清晰閱讀文件。"
     },
-    "notes": {
-      "title": "劃線筆記",
-      "description": "輕鬆標記重點，回顧關鍵見解。建立彩色標記，新增詳細筆記，並匯出您的註釋以供參考或分享。"
+    "codeeditor": {
+      "title": "在程式碼編輯器中檢視",
+      "description": "在快速、語法高亮的唯讀程式碼編輯器中開啟原始碼檔案，針對檢視進行最佳化，包含行號、搜尋和所有語言的順暢滾動。"
     },
-    "aiChat": {
-      "title": "AI 對話",
-      "description": "與您的書籍互動，獲取深度見解和解答。詢問內容相關問題，獲取摘要，並透過我們由多種模型支援的智慧AI助手探索主題。"
+    "editoroptions": {
+      "title": "進階編輯器選項",
+      "description": "使用可自訂的字體大小、字體家族、縮放控制、行高和不受支援字元的警告來微調您的檢視體驗。"
     },
-    "contextMenu": {
-      "title": "便捷操作",
-      "description": "強大的上下文選單，讓操作更加直觀高效。透過簡單的長按手勢，存取詞典定義、翻譯、網路搜尋等功能。"
-    },
-    "customization": {
-      "title": "全面定製",
-      "description": "超豐富的樣式設定，打造專屬閱讀環境。透過進階排版控制和版面選項，精細調整閱讀體驗的每個方面。"
-    },
-    "sync": {
-      "title": "無縫同步",
-      "description": "資料與筆記隨處可得，跨裝置無縫銜接。透過安全的雲端整合，保持您的圖書館、閱讀進度、書籤和註釋同步。"
+    "theme": {
+      "title": "可自訂主題",
+      "description": "從明亮、深色或專用電子墨水模式中選擇，並完全支援自訂的主要、次要和強調顏色，以符合您的偏好並減少眼睛疲勞。"
     }
   },
   "download": {
-    "title": "下載 Anx Reader",
+    "title": "下載 Gzip Explorer",
     "subtitle": "選擇您的平台",
     "appStore": {
-      "title": "App Store",
-      "description": "官方發佈版，自動更新",
-      "button": "在 App Store 下載"
+      "title": "Google Play",
+      "description": "官方發行版，包含自動更新",
+      "button": "在 Google Play 下載"
     },
     "direct": {
       "title": "直接下載",
@@ -68,10 +60,10 @@
     }
   },
   "footer": {
-    "description": "用 Anx Reader 重新定義您的閱讀體驗",
+    "description": "在行動裝置上檢視 git 專案而無需設定 git",
     "links": {
       "github": "GitHub",
-      "privacy": "隱私政策",
+      "privacy": "隱私權政策",
       "terms": "服務條款"
     }
   }
