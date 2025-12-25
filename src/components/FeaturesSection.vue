@@ -6,27 +6,27 @@ const { t } = useI18n()
 const features = [
   {
     key: 'directory',
-    image: '/bookshelf-showcase.png'
+    image: '/directory.png'
   },
   {
     key: 'pluginmanager',
-    image: '/personalize-showcase.png'
+    image: '/pluginmanager.png'
   },
   {
     key: 'markdown',
-    image: '/analytics-showcase.png'
+    image: '/markdown.png'
   },
   {
     key: 'codeeditor',
-    image: '/notes-showcase.png'
+    image: '/codeeditor.png'
   },
   {
     key: 'editoroptions',
-    image: '/ai-chat.png'
+    image: '/editoroptions.png'
   },
   {
     key: 'theme',
-    image: '/context-menu.png'
+    image: '/theme.png'
   },
   // {
   //   key: 'customization',
