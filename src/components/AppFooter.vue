@@ -10,14 +10,14 @@ const { t } = useI18n()
       <div class="footer-content">
         <div class="footer-brand">
           <div class="logo">
-            <img src="/images/logo.png" alt="Anx Reader" />
-            <span>Anx Reader</span>
+            <img src="/images/logo.png" alt="Gzip Explorer" />
+            <span>Gzip Explorer</span>
           </div>
           <p class="description">{{ t('footer.description') }}</p>
         </div>
         
         <div class="footer-links">
-          <a href="https://github.com/anxcye/anx-reader" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/uncrr/gzip-explorer" target="_blank" rel="noopener noreferrer">
             {{ t('footer.links.github') }}
           </a>
           <router-link to="/privacy">{{ t('footer.links.privacy') }}</router-link>
@@ -26,7 +26,7 @@ const { t } = useI18n()
       </div>
       
       <div class="footer-bottom">
-        <p>&copy; 2025 Anx Reader. Made with ❤️ by Anxcye</p>
+        <p>&copy; 2025 Gzip Explorer. Maintained by uncrr (Bilal Worku)</p>
       </div>
     </div>
   </footer>
