@@ -35,8 +35,8 @@ const updateTheme = () => {
 
 <style>
 :root {
-  --primary-color: #26598e;
-  --secondary-color: #4e4be4;
+  --primary-color: #6A1B9A;
+  --secondary-color: #9C27B0;
   --background-color: #FFFFFF;
   --surface-color: #F2F2F7;
   --text-primary: #000000;
