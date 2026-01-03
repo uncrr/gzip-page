@@ -54,9 +54,9 @@ const platforms = [
           <a href="https://github.com/uncrr/git-explorer/releases/latest" target="_blank" class="download-badge-button">
             <img src="/images/github-badge.png" alt="Download from GitHub" />
           </a>
-          <!-- <a href="https://apps.apple.com/app/anx-reader/id6743196413" target="_blank" class="download-badge-button">
-            <img src="/images/app-store-badge.svg" alt="Download on the App Store" />
-          </a> -->
+          <a href="https://play.google.com/store/apps/details?id=com.bilalworku.gzip" target="_blank" class="download-badge-button">
+            <img src="/images/googleplay.png" alt="Get it on Play Store" />
+          </a>
         </div>
       </div>
     </div>

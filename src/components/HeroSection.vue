@@ -64,6 +64,10 @@ const { t } = useI18n()
               </svg>
               {{ t('hero.github') }}
             </a>
+
+            <a href="https://play.google.com/store/apps/details?id=com.bilalworku.gzip" target="_blank" class="download-badge-button">
+            <img height="72" src="/images/googleplay.png" alt="Get it on Play Store" />
+          </a>
           </div>
         </div>
         
